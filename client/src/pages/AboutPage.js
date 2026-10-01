@@ -7,7 +7,7 @@ const AboutPage = () => {
             <section className="page-header">
                 <div className="container">
                     <h1>About Us</h1>
-                    <p>Discover the story behind Mata Shree Furniture and our commitment to excellence.</p>
+                    <p>Discover the story behind E-Commerce-furniture and our commitment to excellence.</p>
                 </div>
             </section>
 
@@ -17,7 +17,7 @@ const AboutPage = () => {
                     <div className="story-content">
                         <div className="story-text">
                             <h2>Our Story</h2>
-                            <p>Mata Shree Furniture began as a small family business with a simple dream: to create beautiful, high-quality furniture that brings comfort and joy to every home. Over the last 15 years, we've grown into one of the region's most trusted furniture brands.</p>
+                            <p>E-Commerce-furniture began as a small family business with a simple dream: to create beautiful, high-quality furniture that brings comfort and joy to every home. Over the last 15 years, we've grown into one of the region's most trusted furniture brands.</p>
                             <p>Our journey has been one of passion and dedication. We blend ideas from across generations, combining time-honored craftsmanship with contemporary design. Today, we're proud to have served over 500 families, helping them create spaces that reflect their personality with our commitment to quality, durability, and timeless design.</p>
                         </div>
                         <div className="story-image">

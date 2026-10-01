@@ -1,6 +1,6 @@
 /*
 ====================================
-MATA SHREE FURNITURE - STYLESHEET (Figma Version)
+E-COMMERCE-FURNITURE - STYLESHEET (Figma Version)
 ====================================
 */
 
@@ -1387,6 +1387,11 @@ main {
     background-color: var(--clr-accent-yellow);
     padding: 2.5rem;
     border-radius: var(--border-radius-lg);
+}
+
+.form-container{
+    margin: 10px;
+    padding: 10px;
 }
 
 .form-row {

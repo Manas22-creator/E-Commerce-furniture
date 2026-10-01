@@ -44,7 +44,7 @@ const Navbar = () => {
             <div className="container navbar-container">
                 <nav className="navbar">
                     <Link to="/" className="nav-logo" onClick={closeMenu}>
-                        <span>Mata Shree Enterprises</span>
+                        <span>E-Commerce-furniture</span>
                     </Link>
                     
                     {/* Main Navigation Menu */}

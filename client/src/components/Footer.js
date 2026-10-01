@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className="footer-grid">
                     <div className="footer-about">
                         <Link to="/" className="footer-logo-link">
-                            <img src="/assets/images/logo-white.png" alt="Mata Shree Furniture Logo" className="footer-logo-img" />
+                            <img src="/assets/images/ecommerce-furniture-logo.svg" alt="E-Commerce-furniture Logo" className="footer-logo-img" />
                         </Link>
                         <p>Crafting beautiful furniture for over 15 years. We believe in quality, craftsmanship, and creating spaces that reflect your personality.</p>
                         <div className="social-links">
@@ -52,7 +52,7 @@ const Footer = () => {
                             </li>
                             <li>
                                 <img src="/assets/icons/email-white.svg" alt="Email" />
-                                <span>info@matashreefurniture.com</span>
+                                <span>info@ecommercefurniture.com</span>
                             </li>
                             <li>
                                 <img src="/assets/icons/location-white.svg" alt="Address" />
@@ -62,7 +62,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="footer-bottom">
-                    <p>&copy; 2024 Mata Shree Furniture. All rights reserved.</p>
+                    <p>&copy; 2024 E-Commerce-furniture. All rights reserved.</p>
                     <div>
                         <Link to="/privacy">Privacy Policy</Link> | <Link to="/terms">Terms of Service</Link>
                     </div>

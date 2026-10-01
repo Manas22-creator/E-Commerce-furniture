@@ -1,0 +1,12 @@
+<svg width="760" height="190" viewBox="0 0 760 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="14" y="18" width="128" height="128" rx="18" stroke="white" stroke-width="6"/>
+  <path d="M42 84H80C88 84 94 90 94 98V120H28V98C28 90 34 84 42 84Z" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 68V52M48 52H72" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <path d="M38 120V138H90V120" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M54 98H72" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <path d="M126 46H170" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <path d="M126 72H170" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <path d="M126 98H170" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <text x="176" y="92" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="0.5">E-Commerce-furniture</text>
+  <text x="178" y="122" fill="#F9E7C8" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="2">FURNITURE COLLECTION</text>
+</svg>

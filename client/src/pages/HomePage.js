@@ -104,7 +104,7 @@ const HomePage = () => {
                 <div className="container crafting-content">
                     <div className="crafting-text">
                         <h2>Crafting Dreams Into Reality</h2>
-                        <p>For over 15 years, Mata Shree Furniture has been synonymous with quality, craftsmanship, and trust. Our journey began with a simple vision: to provide families with furniture that is not just about functionality—it's about creating spaces that reflect your personality.</p>
+                        <p>For over 15 years, E-Commerce-furniture has been synonymous with quality, craftsmanship, and trust. Our journey began with a simple vision: to provide families with furniture that is not just about functionality—it's about creating spaces that reflect your personality.</p>
                         <ul className="features-list">
                             <li><img src="/assets/icons/craft-icon.svg" alt="Handcrafted" /> Handcrafted using finest materials by skilled artisans.</li>
                             <li><img src="/assets/icons/delivery-icon-alt.svg" alt="Timely Delivery" /> Timely delivery with professional and careful handling.</li>
@@ -146,7 +146,7 @@ const HomePage = () => {
                                     <img src="/assets/icons/email-icon-color.svg" alt="Email" />
                                     <div>
                                         <h4>Email</h4>
-                                        <p>info@matashreefurniture.com</p>
+                                        <p>info@ecommercefurniture.com</p>
                                     </div>
                                 </li>
                                 <li className="contact-info-item">

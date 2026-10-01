@@ -53,7 +53,7 @@ const ContactPage = () => {
                                     <img src="/assets/icons/email-icon-color.svg" alt="Email" />
                                     <div>
                                         <h4>Email Addresses</h4>
-                                        <p>info@matashreefurniture.com</p>
+                                        <p>info@ecommercefurniture.com</p>
                                         <span>We'll respond within 24 hours</span>
                                     </div>
                                 </li>

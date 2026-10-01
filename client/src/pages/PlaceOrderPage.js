@@ -81,7 +81,7 @@ const PlaceOrderPage = () => {
                 key: process.env.REACT_APP_RAZORPAY_KEY_ID,
                 amount: razorpayOrder.amount,
                 currency: "INR",
-                name: "Mata Shree Furniture",
+                name: "E-Commerce-furniture",
                 description: `Order #${createdOrder._id}`,
                 order_id: razorpayOrder.id,
                 handler: async function (response) {

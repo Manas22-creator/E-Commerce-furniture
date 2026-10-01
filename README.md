@@ -1,4 +1,4 @@
-# 🪑 Mata Shree Furniture – Full-Stack E-commerce Platform
+# 🪑 E-Commerce-furniture – Full-Stack E-commerce Platform
 
 🌐 Live Demo
 [🔗 Visit the Live Website – Furniture E-Commerce App](https://mata-shree-furniture-ecommerce-1.onrender.com/)
@@ -8,7 +8,7 @@ This project transforms a static furniture design into a dynamic online store wi
 
 📌 Project Overview
 
-Mata Shree Furniture allows customers to:
+E-Commerce-furniture allows customers to:
 
 Browse a dynamic catalog of furniture products with real-time search and category filters  
 Register and log in securely with hashed passwords and JWT-based authentication  
@@ -78,7 +78,7 @@ Tools & Deployment
 🚀 Ready for production build and deployment
 ```
 📂 Project Structure
-mata-shree-furniture-ecommerce/
+E-Commerce-furniture/
 ├── client/                 # React front-end
 │   ├── public/             # Static assets & HTML shell
 │   └── src/
@@ -112,8 +112,8 @@ Backend Setup
 
 Clone the repository:
 ```
-git clone https://github.com/Manas22-creator/mata-shree-furniture-ecommerce.git
-cd mata-shree-furniture-ecommerce/server
+git clone https://github.com/Manas22-creator/E-Commerce-furniture.git
+cd E-Commerce-furniture/server
 ```
 
 Install dependencies:
@@ -176,3 +176,20 @@ Optimize performance for large product catalogs
 
 This project is built by Manas Pandey to showcase full-stack MERN development skills.
 It demonstrates a real-world e-commerce workflow including authentication, cart management, multi-step checkout, and payment gateway integration.
+
+<!--
+Branding update audit for E-Commerce-furniture:
+- [README.md](README.md): updated title, project name, repo path, and project structure text.
+- [Project Structure.txt](Project%20Structure.txt): updated directory name references.
+- [client/src/components/Navbar.js](client/src/components/Navbar.js): updated the brand label in the site header.
+- [client/src/components/Footer.js](client/src/components/Footer.js): updated logo alt text, email, and footer copyright text.
+- [client/src/pages/AboutPage.js](client/src/pages/AboutPage.js): updated story content and page copy.
+- [client/src/pages/HomePage.js](client/src/pages/HomePage.js): updated brand narrative and contact details.
+- [client/src/pages/ContactPage.js](client/src/pages/ContactPage.js): updated contact email details.
+- [client/src/pages/PlaceOrderPage.js](client/src/pages/PlaceOrderPage.js): updated the Razorpay merchant label.
+- [client/src/App.css](client/src/App.css): updated stylesheet header branding.
+- [client/src/responsiveness.css](client/src/responsiveness.css): updated responsive CSS header branding.
+- [server/controllers/productController.js](server/controllers/productController.js): replaced the old hosted fallback URL with a local backend default.
+- [server/data/products.js](server/data/products.js): restored local product image paths to avoid the old brand domain.
+- .env files were intentionally left unchanged as requested.
+-->

@@ -1,4 +1,4 @@
-mata-shree-furniture-ecommerce/
+E-Commerce-furniture/
 │
 ├── 📁 client/                       // All our React Front-End Code
 │   ├── 📁 public/
