@@ -1,7 +1,17 @@
 # 🪑 E-Commerce-furniture – Full-Stack E-commerce Platform
 
 🌐 Live Demo
-[🔗 Visit the Live Website – Furniture E-Commerce App](https://mata-shree-furniture-ecommerce-1.onrender.com/)
+[🔗 Visit the Live Website – Furniture E-Commerce App](https://E-Commerce-furniture.onrender.com/)
+
+📌 Project Status
+
+Internship Project – Completed & Archived
+The live Render deployment has been removed after completion of the internship project.
+
+💼 Looking for real-world freelance projects?
+Visit my Portfolio to explore my latest freelance work and projects.
+
+💬 Need help with Render deployment, production setup, or web development projects? Feel free to reach out.
 
 A modern, full-featured e-commerce web application built from scratch using the MERN stack (MongoDB, Express.js, React, Node.js).
 This project transforms a static furniture design into a dynamic online store with user authentication, persistent cart, multi-step checkout, and secure payment integration.
